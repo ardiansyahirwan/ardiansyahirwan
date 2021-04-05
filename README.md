@@ -10,9 +10,7 @@ I’m currently studying at Bina Sarana Infformatika University, majoring in inf
   <li>PHP</li>
 </ul>
 
-<p>I am also learning programming in BuildWithAngga in class
-
-Ikon Diverifikasi Komunitas</p>
+<p>I am also learning programming in BuildWithAngga in class Fullstack Website Developer</p>
 <!--
 **ardiansyahirwan/ardiansyahirwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
