@@ -1,4 +1,7 @@
 ### Hello everyone 👋, I'm Irwan Ardiansyah Nice to meet you
+🌱 I’m currently studying at Bina Sarana Infformatika University, majoring in information system faculty of information and computer engineering
+
+### 🌱 I’m currently learning
 
 <!--
 **ardiansyahirwan/ardiansyahirwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
