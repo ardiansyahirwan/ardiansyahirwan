@@ -1,5 +1,5 @@
 ### Hello everyone 👋, I'm Irwan Ardiansyah Nice to meet you
-I’m currently studying at Bina Sarana Infformatika University, majoring in information system faculty of information and computer engineering
+Graduated from Bina Sarana Informatika University at 2021, majoring in information system faculty of information and computer engineering
 
 ### 🌱 I’m currently learning
 <p>Some programming languages</p>
