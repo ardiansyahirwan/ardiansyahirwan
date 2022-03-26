@@ -7,9 +7,11 @@ Graduated from Bina Sarana Informatika University at 2021, majoring in informati
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JS</li>
-  <li>PHP</li>
-  <li>Dart</li>
-  <li>Flutter</li>
+  <li>Vue Js</li>
+  <li>Vue CLI</li>
+  <li>Some Vue Router</li>
+  <li>Vuetify JS</li>
+  <li> Some PHP Basic</li>
 </ul>
 
 <p>I am also learning programming in BuildWithAngga in class Fullstack Website Developer</p>
