@@ -4,13 +4,10 @@ Graduated from Bina Sarana Informatika University at 2021, majoring in informati
 ### 🌱 I’m currently learning
 <p>Some programming languages</p>
 <ul>
+  <li>Figma</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>JS</li>
-  <li>Vue Js</li>
-  <li>Vue CLI</li>
-  <li>Some Vue Router</li>
-  <li>Vuetify JS</li>
+  <li>Python</li>
   <li> Some PHP Basic</li>
 </ul>
 
