@@ -12,6 +12,12 @@ Graduated from Bina Sarana Informatika University at 2021, majoring in informati
 </ul>
 
 <p>I am also learning programming in BuildWithAngga in class Fullstack Website Developer</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/apiusername=ardiansyahirwan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyahirwan&layout=compact" />
+</p>
+
 <!--
 **ardiansyahirwan/ardiansyahirwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
