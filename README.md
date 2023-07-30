@@ -11,10 +11,10 @@ Graduated from Bina Sarana Informatika University at 2021, majoring in informati
   <li> Some PHP Basic</li>
 </ul>
 
-<p>I am also learning programming in BuildWithAngga in class Fullstack Website Developer</p>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyahirwan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyahirwan&layout=compact" /><br>
+  ![](https://github-readme-stats.vercel.app/api?username=mfjrid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mfjrid)<br>
 </p>
 
 <!--
