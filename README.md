@@ -2,7 +2,7 @@
 Graduated from Bina Sarana Informatika University at 2021, majoring in information system faculty of information and computer engineering
 
 ### 🌱 I’m currently learning
-<div style="display:inline-block;">
+<div>
     <div>
       <p>Some programming languages</p>
       <ul>
